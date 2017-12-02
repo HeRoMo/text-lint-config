@@ -11,8 +11,7 @@
     "textlint-rule-preset-ja-spacing": "^2.0.1",
     "textlint-rule-preset-ja-technical-writing": "^2.0.0",
     "textlint-rule-preset-japanese": "^2.0.0",
-    "textlint-rule-spellcheck-tech-word": "^5.0.0",
-    "textlint-rule-web-plus-db": "^1.1.5"
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
