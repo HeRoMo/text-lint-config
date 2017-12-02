@@ -1,0 +1,24 @@
+{
+  "name": "my-text-lint-config",
+  "version": "1.0.0",
+  "description": "my-text-lint-config",
+  "main": "index.js",
+  "dependencies": {
+    "textlint": "^9.1.1",
+    "textlint-rule-date-weekday-mismatch": "^1.0.5",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
+    "textlint-rule-preset-ja-spacing": "^2.0.1",
+    "textlint-rule-preset-ja-technical-writing": "^2.0.0",
+    "textlint-rule-preset-japanese": "^2.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0",
+    "textlint-rule-web-plus-db": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "none",
+  "author": "HeRoMo",
+  "license": "ISC"
+}
