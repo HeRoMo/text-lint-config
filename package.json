@@ -6,8 +6,6 @@
   "dependencies": {
     "textlint": "^9.1.1",
     "textlint-rule-date-weekday-mismatch": "^1.0.5",
-    "textlint-rule-max-ten": "^2.0.3",
-    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
     "textlint-rule-preset-ja-spacing": "^2.0.1",
     "textlint-rule-preset-ja-technical-writing": "^2.0.0",
     "textlint-rule-preset-japanese": "^2.0.0",
