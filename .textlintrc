@@ -1,18 +1,17 @@
 {
   "plugins": [
-    "textlint-rule-date-weekday-mismatch",
     "textlint-rule-preset-ja-spacing",
     "textlint-rule-preset-ja-technical-writing",
-    "textlint-rule-preset-japanese",
+    "textlint-rule-date-weekday-mismatch",
     "textlint-rule-spellcheck-tech-word"
   ],
   // overwrite-plugins rules config
   // <plugin>/<rule>
   "rules": {
-    "textlint-rule-date-weekday-mismatch" : true,
     "textlint-rule-preset-ja-spacing/ja-space-between-half-and-full-width" : false,
     "textlint-rule-preset-ja-technical-writing/ja-no-weak-phrase" : false,
     "textlint-rule-preset-ja-technical-writing/no-exclamation-question-mark" : false,
+    "textlint-rule-date-weekday-mismatch" : true,
     "spellcheck-tech-word" : true
   }
 }
