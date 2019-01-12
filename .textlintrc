@@ -1,7 +1,16 @@
 {
+  "filters": {
+    "comments": true
+  },
   "rules": {
     "preset-ja-spacing": {
-      "ja-space-between-half-and-full-width" : false
+      "ja-space-between-half-and-full-width" : false,
+      "whitelist": {
+          "whitelistConfigPaths": [
+              "./allow.json",
+              "./allow.yml"
+          ]
+      }
     },
     "preset-ja-technical-writing": {
       "ja-no-weak-phrase" : false,
