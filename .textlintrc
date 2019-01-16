@@ -27,6 +27,7 @@
       }
     },
     "date-weekday-mismatch" : true,
-    "spellcheck-tech-word" : true
+    "spellcheck-tech-word" : true,
+    "@textlint-rule/no-invalid-control-character": true
   }
 }
