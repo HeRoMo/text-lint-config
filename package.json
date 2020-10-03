@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "textlint": "^11.7.6",
+    "textlint-filter-rule-allowlist": "^2.0.1",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-filter-rule-whitelist": "^2.0.0",
     "textlint-rule-date-weekday-mismatch": "^1.0.5",
     "textlint-rule-preset-ja-spacing": "^2.0.2",
     "textlint-rule-preset-ja-technical-writing": "^4.0.1",
