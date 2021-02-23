@@ -4,7 +4,7 @@
   "description": "my-text-lint-config",
   "main": "index.js",
   "dependencies": {
-    "textlint": "^11.7.6",
+    "textlint": "^11.8.2",
     "textlint-filter-rule-allowlist": "^2.0.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-date-weekday-mismatch": "^1.0.5",
