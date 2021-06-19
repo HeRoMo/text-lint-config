@@ -19,7 +19,7 @@ rules:
       # 例外を許可するかどうか
       strict: false
       # 助詞のうち「も」「や」は複数回の出現を許す
-      allow: [も, や, は , に, が, か, と, で]
+      allow: [も, や, は , に, が, か, と, で, たり]
       # 文区切り文字の配列
       separatorChars: ['。', '?', '!', '？', '！']
   date-weekday-mismatch: true
